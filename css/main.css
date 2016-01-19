@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 20px 0px 0px 20px;
+}
+
+h4 {
+	font: 20px Arial;
+	margin-bottom: 10px;
+}
+
+h2 {
+	font: 15px Verdana;
+	color: white;
+	position: relative;
+	text-align: right;
+	right: 10px;
+	top:-25px;
+}
+
+.borde {
+	border-bottom: 3px solid black;
+	width: 160px;
+}
+
+.i1 {
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+}
+
+.b1 {
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+}
+
+
